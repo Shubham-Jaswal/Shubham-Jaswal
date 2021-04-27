@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham-Jaswal
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning JAVA+ANDROID
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JAVA and ANDROID Projects
 - 📫 How to reach me ...Shubhamjaswal9545@gmail.com
 
 <!---
